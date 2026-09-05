@@ -2,7 +2,7 @@
 
 > **Not answers. Meaning-making.**
 
-![The Integral Resonance Project](Templates/hero-banner.png)
+![The Integral Resonance Project](templates/hero-banner.png)
 
 A global open-source initiative for better conversations about what it means to be human.
 
