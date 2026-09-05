@@ -1,98 +1,49 @@
-# integral-resonance-project
+# The Integral Resonance Project (IRP)
 
-The Integral Resonance Project
+> **Not answers. Meaning-making.**
 
-Not answers, but the way meaning is made.
+![The Integral Resonance Project](templates/hero-banner.png)
 
-The Integral Resonance Project (IRP) is an open-source conversation framework for exploring human meaning-making, developmental patterns, and reflective dialogue.
+A global open-source initiative for better conversations about what it means to be human.
 
-Rather than assigning people to personality types or fixed developmental stages, IRP helps make visible how people construct meaning through language, decisions, relationships, and self-reflection.
+---
 
-The project was inspired by Integral Theory (Ken Wilber), constructive-developmental psychology (Robert Kegan, Susanne Cook-Greuter), systems thinking, and practical coaching conversations—but it is not an official implementation of any of these models.
+## Our first method
 
-Why this exists
+# Integral Resonance Interview (IRI)
 
-Many assessments ask:
+IRI is a conversation framework that explores **how people create meaning** rather than assigning fixed personality types or developmental labels.
 
-“What do you believe?”
+The defining question of the method is:
 
-IRP asks a different question:
+> **“Which word in my question would you replace?”**
 
-“How does this meaning arise for you?”
+---
 
-The interview treats language itself as a source of information. One of its core innovations is the Semantic Calibration Loop: after each answer, participants are invited to improve the interviewer’s wording.
+## The Interview Cycle
 
-Often the most valuable insight appears not in the answer—but in the word someone chooses to replace.
+1. Situation
+2. Response
+3. Semantic Check
+4. Calibration
 
-The four-step interview cycle
+---
 
-Every question follows the same structure:
+## What participants receive
 
-1. Situation – A concrete dilemma or lived scenario.
-2. Response – The participant answers freely.
-3. Semantic Check – “Which word would you replace?”
-4. Calibration – The next question adapts to what emerged.
-
-This creates a living conversation rather than a fixed questionnaire.
-
-What participants receive
-
-At the end of an interview, IRP generates:
-
-* An Integral Compass (visual reflection map)
-* A conversation-based developmental hypothesis
-* Dynamic Signatures (recurring patterns of meaning-making)
+* Integral Compass
+* Conversation-based developmental hypothesis
+* Dynamic Signatures
 * Practical growth experiments
 * A reflective letter from an imagined older, wiser friend
 
-Guiding principles
+---
 
-* Development is not a hierarchy of human worth.
-* Different capacities develop at different speeds.
-* Language is part of development.
-* Curiosity is more valuable than certainty.
-* Every interpretation remains a hypothesis.
+## Open Source
 
-Open Source
+Released under **CC BY 4.0**.
 
-IRP is released under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+Use it. Improve it. Leave the language better than you found it.
 
-You are encouraged to:
-
-* use it,
-* translate it,
-* improve it,
-* build upon it,
-* and contribute your refinements back to the project.
-
-Project structure
-
-`text
-README.md
-LICENSE.md
-MANIFEST.md
-CHANGELOG.md
-CONTRIBUTING.md
-
-/docs
-/prompts
-/templates
-/presentation
-/website
-`
-
-Contributing
-
-We especially welcome improvements to:
-
-* interview questions,
-* semantic precision,
-* visualizations,
-* facilitation techniques,
-* and the growing Living Lexicon of language refinements.
-
-Development happens one conversation at a time.
-
-⸻
-
-“Every good question changes the person who asks it, not only the person who answers it.”
+* Read `MANIFEST.md` to understand why the project exists.
+* Read `METHOD.md` to learn how the interview works.
